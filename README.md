@@ -1,0 +1,1 @@
+# Venaaurea - AI Trading Bot
